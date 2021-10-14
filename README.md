@@ -1,9 +1,9 @@
 # fw-CommingSoonPage
 
 Site Description:
--Countdown ELement: Javascript Application
--Email Submission Form 
+- Countdown ELement: Javascript Application
+- Email Submission Form 
 
-
-website is live: https://fw-commingsoonpage.netlify.app/;
+Website is live: 
+- https://fw-commingsoonpage.netlify.app/;
 
